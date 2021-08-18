@@ -1,0 +1,16 @@
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.exe
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.deps.json
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.runtimeconfig.json
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.runtimeconfig.dev.json
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.dll
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\ref\MyFirstApp3.dll
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\bin\Debug\net5.0\MyFirstApp3.pdb
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.csproj.AssemblyReference.cache
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.AssemblyInfoInputs.cache
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.AssemblyInfo.cs
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.csproj.CoreCompileInputs.cache
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.dll
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\ref\MyFirstApp3.dll
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.pdb
+C:\Users\wills\OneDrive\Documents\GitHub\HelloWorld\MyFirstApp3\MyFirstApp3\obj\Debug\net5.0\MyFirstApp3.genruntimeconfig.cache
